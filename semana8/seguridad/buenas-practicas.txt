@@ -1,0 +1,6 @@
+1.Proteger las contraseñas con claves seguras y únicas.
+2.No compartir credenciales de acceso con otras personas.
+3.Mantener el software y el sistema operativo actualizados.
+4.Activar la autenticación de dos factores (2FA).
+5.Realizar copias de seguridad periódicas de la información.
+6.Evitar abrir enlaces o archivos de remitentes desconocidos.
