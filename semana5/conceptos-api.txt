@@ -1,0 +1,8 @@
+La ruta /reporte utiliza el método POST para recibir información enviada por el usuario al servidor. 
+En este caso, toma el valor de “mensaje” desde el cuerpo de la solicitud y responde con un objeto en formato 
+JSON indicando que el reporte fue recibido junto con el mensaje enviado.
+
+Esta ruta podría servir en una aplicación comunitaria para que los ciudadanos envíen reportes sobre situaciones
+ de su barrio o comunidad, como daños en servicios públicos, problemas de seguridad, fallas en infraestructura 
+o sugerencias. De esta manera, la aplicación podría recibir y procesar información importante para dar seguimiento 
+a las necesidades de la comunidad.
