@@ -1,0 +1,13 @@
+mkdir semana2
+cd semana2
+touch preguntas-semana2.txt
+touch comandos-terminal.txt
+touch reflexion-semana2.txt
+
+git init
+git add "semana3"
+git commit -m "Actividad semana 3"
+git branch -M main
+git remote remove origin
+git remote add origin https://github.com/mmartinezm14-eng/programadores-para-la-paz.git
+git push -u origin main --force
