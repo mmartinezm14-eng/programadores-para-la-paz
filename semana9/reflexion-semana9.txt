@@ -1,0 +1,14 @@
+Es importante que los sistemas tecnológicos utilizados por las agrupaciones 
+operen de modo consistente y resguardado sobre un servidor debido a que tal 
+proceder asegura la accesibilidad sin intermitencias para la totalidad de los 
+usuarios al servicio. Un sistema inconstante podría desencadenar contratiempos, 
+extravío de datos o trabas en el intercambio comunicativo entre los partícipes. 
+El resguardo, igualmente, reviste suma importancia puesto que salvaguarda la 
+información de índole personal e impide intromisiones indebidas. Adicionalmente,
+ un servidor firme posibilitada que la aplicación reaccione con presteza y efectividad 
+ a los requerimientos. Ello eleva la vivencia del usuario y potencia la credibilidad 
+ en el sistema. Asimismo, simplifica la administración de los datos y la supervisión 
+ de los procedimientos internos. En el seno de las agrupaciones, ámbitos donde la 
+ data puede ser delicada o trascendente, estas consideraciones devienen aún más 
+ cruciales. De ahí que la consistencia y la salvaguarda constituyan pilares para 
+ la operatividad idónea de cualquier infraestructura digital comunitaria.
