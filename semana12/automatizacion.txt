@@ -1,0 +1,8 @@
+Evento que activa la automatización:
+Cuando un ciudadano registra una nueva causa en la plataforma.
+
+Mensaje que se envía:
+"Nueva causa creada en la plataforma. Ingresa al sistema para conocer los detalles y brindar tu apoyo."
+
+Información que no debe enviarse por seguridad:
+No se deben enviar cédulas, números de teléfono, direcciones, correos electrónicos, comentarios privados ni ningún otro dato personal de los ciudadanos.

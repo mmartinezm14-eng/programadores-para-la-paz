@@ -1,0 +1,9 @@
+Durante este curso aprendí que la tecnología puede ser una herramienta muy útil para fortalecer la participación 
+ciudadana y la organización comunitaria. Comprendí que una plataforma digital facilita que las personas expresen 
+sus necesidades y apoyen causas de forma rápida. También aprendí la importancia de proteger los datos personales 
+y utilizar únicamente la información necesaria. Conocí cómo las bases de datos ayudan a organizar la información 
+de manera eficiente. Además, entendí que las automatizaciones con herramientas como n8n o Telegram permiten enviar 
+notificaciones sin realizar el proceso manualmente. El desarrollo de sistemas debe centrarse en las necesidades 
+de los usuarios y ser fácil de utilizar. Todo lo aprendido me permitirá crear soluciones tecnológicas más útiles 
+y responsables para mi comunidad. Este curso fortaleció mis conocimientos sobre programación, organización de datos
+y uso de la tecnología con un propósito social.
